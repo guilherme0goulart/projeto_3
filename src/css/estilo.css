@@ -433,6 +433,8 @@ ul ul li {
 .beneficios .box-conteiner .box img {
     max-width: 90%;
     max-height: 400px;
+    height: 12rem;
+    width: 18rem;
     margin-bottom: 16px;
 }
 
