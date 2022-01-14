@@ -219,7 +219,7 @@ ul ul li {
     flex-wrap: wrap;
     gap: 1.5rem;
     margin: 0 auto;
-    max-width: 70%;
+    max-width: 80%;
     padding-bottom: 40px;
 }
 
@@ -414,7 +414,6 @@ ul ul li {
     padding: 40px 0 90px 0;
     justify-content: space-around;
     margin: auto;
-    max-width: 80%;
 }
 
 .beneficios .box-conteiner .box {
@@ -473,7 +472,6 @@ ul ul li {
     padding: 40px 0 90px 0;
     justify-content: space-around;
     margin: auto;
-    max-width: 80%;
     gap: 4rem;
 }
 
@@ -785,6 +783,12 @@ input[type="submit"]:hover {
         right: 0px;
         background: #e7e7e7;
         height: 100vh;
+        z-index: 1000;
+    }
+
+    .menu__itens a {
+        padding: 1rem 0;
+        margin: 0 1rem;
     }
 
     .homeh1 {
